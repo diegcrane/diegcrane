@@ -1,10 +1,3 @@
 <img align="right" alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/computer.gif?raw=1" width="200vw" />
 
 - <img alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/wave.gif?raw=1" width="20vw" /> Hi, I'm Diego.
-
-<p align="center">
-  <a href="https://github.com/8cy" target="_blank"><img src="https://github.com/8cy/8cy/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-  <a href="https://discord.com/users/fun#1337" target="_blank"><img src="https://github.com/8cy/8cy/blob/master/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/_fuwn" target="_blank"><img src="https://github.com/8cy/8cy/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="https://fuwn.me/" target="_blank"><img src="https://github.com/8cy/8cy/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
-</p>
