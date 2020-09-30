@@ -1,1 +1,1 @@
-<img align="mid" gif_1="GIF" src="https://cdn.discordapp.com/attachments/760585593263751188/760585640571306055/3.gif" width="300"/>
+<img src="https://cdn.discordapp.com/attachments/760585593263751188/760585640571306055/3.gif" width="300"/>
