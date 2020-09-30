@@ -2,6 +2,6 @@
 
 <figure style="text-align:center;">
 
-c++ fanboy
+  <p>c++ fanboy</p>
 
 </figure>
