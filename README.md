@@ -2,7 +2,6 @@
 
 <figure style="text-align:center;">
 
-  <p>c++ fanboy</p>
-  <figcaption>World Map</figcaption>
+<img usemap="#continents_map" src=https://bit.ly/2bgFrvL width="600px" />
 
 </figure>
