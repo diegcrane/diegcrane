@@ -1,21 +1,12 @@
-<h1 style="text-align:center;">DiegHub</h1>
-
-<h4 style="text-align:center;">&#10148; where all my shitty code ends</h4>
-
-<map name="continents_map">
-
- <area shape="circle" coords="70,70,10" href="#north_america">
-
- <area shape="circle" coords="133,185,10" href="#south_america">
-
- <area shape="circle" coords="270,137,10" href="#africa">
-
- <area shape="circle" coords="292,44,10" href="#europe">
-
- <area shape="circle" coords="469,201,10" href="#australia">
-
- <area shape="circle" coords="374,65,10" href="#asia">
-
- <area shape="circle" coords="340,267,10" href="#antartica">
-
-</map>
+<select name=”clr” onchange=”document.bgColor=this.options[this.selectedIndex].value” size=”1″>
+    <br>
+    <option value=”black”>black
+        <option value=”orange”>orange
+            <option value=”flamingred”>fuschia
+                <option value=”lightyellow”>light yellow
+                    <option value=”green”>green
+                        <option value=”cyan”>cyan
+                            <option value=”yellow”>yellow
+                                <option value=”red”>red
+                                    <option value=”white”>white</option>
+</select>&nbsp;&nbsp;Background Color
