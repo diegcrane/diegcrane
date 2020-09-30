@@ -1,3 +1,9 @@
-<h1 style="text-align:center;">The 7 Continents</h1>
+<h1 style="text-align:center;">DiegHUB</h1>
 
-<h4 style="text-align:center;">&#10148; Click on the dots in the image to go to a continent section</h4>
+<figure style="text-align:center;">
+
+    <img usemap="#continents_map" src=https://bit.ly/2bgFrvL width="600px" />
+
+    <figcaption>World Map</figcaption>
+
+</figure>
