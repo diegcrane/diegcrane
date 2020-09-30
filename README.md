@@ -3,5 +3,6 @@
 <figure style="text-align:center;">
 
   <p>c++ fanboy</p>
+  <figcaption>World Map</figcaption>
 
 </figure>
