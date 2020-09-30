@@ -1,3 +1,1 @@
-<center>
-  <img src="https://cdn.discordapp.com/attachments/760585593263751188/760585640571306055/3.gif"/>
-</center>
+<span >Your highlighted text here.</span>
