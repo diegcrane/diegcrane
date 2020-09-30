@@ -2,6 +2,6 @@
 
 <figure style="text-align:center;">
 
-    c++ fanboy
+    c++ noobie
 
 </figure>
