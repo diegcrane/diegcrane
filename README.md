@@ -1,7 +1,7 @@
-<h1 style="text-align:center;">DiegHUB</h1>
+<h2 style="text-align:center;">DiegHUB</h2>
 
 <figure style="text-align:center;">
 
-    :icaca:
+    <p>:icaca:</p>
 
 </figure>
