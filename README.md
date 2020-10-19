@@ -2,6 +2,6 @@
 
 <figure style="text-align:center;">
 
-    <p>:icaca:</p>
+    <b>:icaca:</b>
 
 </figure>
