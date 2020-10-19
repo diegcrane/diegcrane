@@ -2,6 +2,6 @@
 
 <figure style="text-align:center;">
 
-    c++ noobie
+    i like da c++
 
 </figure>
