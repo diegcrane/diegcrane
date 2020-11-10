@@ -2,6 +2,6 @@
 
 <figure style="text-align:center;">
 
-    github de dieg, todo en c++
+    puto si lees
 
 </figure>
