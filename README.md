@@ -2,6 +2,6 @@
 
 <figure style="text-align:center;">
 
-    puto si lees
+    Mi página de GitHub :D
 
 </figure>
