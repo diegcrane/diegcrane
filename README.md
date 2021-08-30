@@ -2,6 +2,6 @@
 
 <figure style="text-align:center;">
 
-    Mi página de GitHub :D
+    Hi!
 
 </figure>
